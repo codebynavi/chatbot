@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Multi-Modal Chat",
+  "description": "An advanced chatbot that leverages Gemini for standard chat, complex reasoning with 'Thinking Mode', location-aware responses with Maps Grounding, and Text-to-Speech for audible replies. Users can also provide text context for nuanced conversations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
